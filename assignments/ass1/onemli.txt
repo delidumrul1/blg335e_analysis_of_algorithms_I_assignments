@@ -1,0 +1,3 @@
+g++ -Wall -Werror assg1.cpp -I include -o assg1 -lm
+./assg1
+

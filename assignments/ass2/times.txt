@@ -1,0 +1,52 @@
+firstq
+10 data 0.001797 seconds
+100 data 0.010188 seconds
+1000 data 0.197968 seconds
+10000 data 2.64531 seconds
+100000 data ? seconds
+
+max
+10 data  0.002557 seconds
+100 data 0.008203 seconds
+1000 data 0.063425 seconds
+10000 data 0.782659 seconds
+100000 data 39.6875 seconds
+
+mean
+10 data  0.003261 seconds
+100 data 0.011665 seconds
+1000 data 0.074221 seconds
+10000 data 0.593991 seconds
+100000 data 13.0934 seconds
+
+median
+10 data  0.001316 seconds
+100 data 0.010198 seconds
+1000 data 0.06619 seconds
+10000 data 1.21446 seconds
+100000 data 107.255 seconds
+
+min
+10 data  0.001097 seconds
+100 data 0.009028 seconds
+1000 data 0.125882 seconds
+10000 data 23.9849 seconds
+100000 data ? seconds
+
+thirdq
+10 data 0.001199 seconds
+100 data 0.006527 seconds
+1000 data 0.063959 seconds
+10000 data 1.55247 seconds
+100000 data 125.54 seconds
+
+std
+10 data 0.000675 seconds
+100 data 0.006659 seconds
+1000 data 0.072988 seconds
+10000 data 0.584895 seconds
+100000 data 22.8406 seconds
+
+
+
+
